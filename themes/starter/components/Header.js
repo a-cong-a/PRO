@@ -101,7 +101,7 @@ export const Header = props => {
                     </Link>
                     <Link
                       href={siteConfig('STARTER_NAV_BUTTON_2_URL', '')}
-                      className={`signUpBtn ${buttonTextColor} p-2 rounded-md bg-white bg-opacity-20 py-2 text-base font-medium duration-300 ease-in-out hover:bg-opacity-100 hover:text-dark`}>
+                      className={`hidden signUpBtn ${buttonTextColor} p-2 rounded-md bg-white bg-opacity-20 py-2 text-base font-medium duration-300 ease-in-out hover:bg-opacity-100 hover:text-dark`}>
                       {siteConfig('STARTER_NAV_BUTTON_2_TEXT')}
                     </Link>
                   </div>
