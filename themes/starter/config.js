@@ -25,7 +25,7 @@ const CONFIG = {
   STARTER_HERO_BANNER_IMAGE: '', // hero区下方的全宽图
 
   // 顶部右侧导航暗流
-  STARTER_NAV_BUTTON_1_TEXT: '关于PRO+',
+  STARTER_NAV_BUTTON_1_TEXT: '关于',
   STARTER_NAV_BUTTON_1_URL: 'https://1zs.top/',
 
   STARTER_NAV_BUTTON_2_TEXT: '',
