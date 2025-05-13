@@ -28,8 +28,8 @@ const CONFIG = {
   STARTER_NAV_BUTTON_1_TEXT: '关于PRO+',
   STARTER_NAV_BUTTON_1_URL: 'https://1zs.top/',
 
-  STARTER_NAV_BUTTON_2_TEXT: ' ',
-  STARTER_NAV_BUTTON_2_URL: 'https://1zs.top/',
+  STARTER_NAV_BUTTON_2_TEXT: '',
+  STARTER_NAV_BUTTON_2_URL: '',
 
   // 特性区块
   STARTER_FEATURE_ENABLE: true&false, // 特性区块开关
