@@ -16,7 +16,7 @@ const CONFIG = {
   STARTER_HERO_BUTTON_1_TEXT: '会员登录', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
     '/about', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_TEXT: '今日网站推荐！', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_TEXT: 'PRO+每日推荐！', // 英雄区按钮
   STARTER_HERO_BUTTON_2_URL: 'https://fcssr.top/', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '', // 英雄区按钮2的图标，不需要则留空
 
