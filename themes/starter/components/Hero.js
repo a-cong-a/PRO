@@ -44,7 +44,7 @@ export const Hero = (props) => {
               className="mb-6 text-3xl font-bold leading-snug text-white sm:text-4xl sm:leading-snug lg:text-5xl lg:leading-[1.2]"
             >
               {/* {siteConfig('STARTER_HERO_TITLE_1', null, CONFIG)} */}
-              <span>PRO+</span><span className='text-red-700 ml-2'>一站式</span>
+              <span>探花万人迷+</span><span className='text-red-700 ml-2'>会员系统</span>
             </h1>
             {/* 次标题 */}
             <p
