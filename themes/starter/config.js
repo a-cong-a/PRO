@@ -10,14 +10,14 @@ const CONFIG = {
 
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
-  STARTER_HERO_TITLE_1: 'PRO+', // 英雄区文字
+  STARTER_HERO_TITLE_1: '探花万人迷+一站式', // 英雄区文字
   STARTER_HERO_TITLE_2: '一站式登录 永不丢失!', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '会员登录', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
     '/about', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_TEXT: 'PRO+每日推荐！', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_URL: 'https://1hx.top/', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_TEXT: '精彩推荐', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_URL: 'https://lyscj.netlify.app', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '', // 英雄区按钮2的图标，不需要则留空
 
   // 英雄区配图，如需隐藏，改为空值即可 ''
@@ -25,8 +25,8 @@ const CONFIG = {
   STARTER_HERO_BANNER_IMAGE: '', // hero区下方的全宽图
 
   // 顶部右侧导航暗流
-  STARTER_NAV_BUTTON_1_TEXT: '关于',
-  STARTER_NAV_BUTTON_1_URL: 'https://1zs.top/',
+  STARTER_NAV_BUTTON_1_TEXT: '上车入口',
+  STARTER_NAV_BUTTON_1_URL: 'https://lyscj.netlify.app/shangche',
 
   STARTER_NAV_BUTTON_2_TEXT: '',
   STARTER_NAV_BUTTON_2_URL: '',
